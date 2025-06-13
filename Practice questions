@@ -46,7 +46,7 @@ public class Main{
         System.out.println("Enter the number");
         int num = Sc.nextInt();
         if ((num%2)==0){
-            System.out.println("even");
+            System.out.println("Even");
         }
         else{
             System.out.println("Odd");
